@@ -1,0 +1,75 @@
+{
+    "pets": [
+        {
+            "id": "1",
+            "name": "Pet Tagline",
+            "image": "https://i.imgur.com/4KrEELY.jpeg"
+        },
+        {
+            "id": "2",
+            "name": "Gato Malhado",
+            "image": "https://i.imgur.com/fyLeXtY.png"
+        },
+        {
+            "id": "3",
+            "name": "PetShop",
+            "image": "https://i.imgur.com/qiRg3Sm.jpeg"
+        },
+        {
+            "id": "4",
+            "name": "PetShop 2",
+            "image": "https://i.imgur.com/vpK14dp.jpeg"
+        },
+        {
+            "id": "5",
+            "name": "PetShop 3",
+            "image": "https://i.imgur.com/QG4tpLj.jpeg"
+        },
+        {
+            "id": "6",
+            "name": "PetShop Borcelle",
+            "image": "https://i.imgur.com/uzjDJOX.png"
+        },
+        {
+            "id": "7",
+            "name": "PetShop Fernanda",
+            "image": "https://i.imgur.com/JUeJVkA.jpeg"
+        }
+
+    ],
+    "tosas": [
+        {
+            "id": "1",
+            "name": "Enrico",
+            "price": "0000-0000",
+            "time": "Porte: Medio",
+            "delivery": 4,
+            "rating": 4.8,
+            "image": "https://i.imgur.com/9YStaEC.png",
+            "petId": "1"
+        },
+        {
+            "id": "2",
+            "name": "Sra. Puff",
+            "price": "0000-0000",
+            "time": "Porte: Medio",
+            "delivery": 1,
+            "rating": 4.6,
+            "image": "https://i.imgur.com/ZNl0z0G.png",
+            "petId": "1"
+        },
+        {
+            "id": "3",
+            "name": "Marvel",
+            "price": "0000-0000",
+            "time": "Porte: Medio",
+            "delivery": 3,
+            "rating": 4.9,
+            "image": "https://i.imgur.com/5QIxLjP.png",
+            "petId": "1"
+        }
+    
+    ]
+   
+    
+}
